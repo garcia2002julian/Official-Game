@@ -2658,3 +2658,433 @@ Recommended: 516.25
 [2022.07.25-02.55.33:240][689]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' which belongs to world '/Game/StarterContent/Maps/Minimal_Default'. Aborting autosave.
 [2022.07.25-03.02.24:650][ 72]LogSlate: Window 'Message Log' being destroyed
 [2022.07.25-03.02.24:667][ 72]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.04.32:591][447]Cmd: EDIT COPY
+[2022.07.25-03.04.43:855][529]Cmd: TRANSACTION UNDO
+[2022.07.25-03.04.43:855][529]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.04.45:622][660]Cmd: EDIT COPY
+[2022.07.25-03.04.45:924][690]Cmd: EDIT PASTE
+[2022.07.25-03.06.56:789][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.25-03.06.56:806][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2022.07.25-03.06.56:806][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.06.57:306][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.06.57:807][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.06.58:308][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.06.58:808][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.06.59:309][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.06.59:810][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.07.00:310][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.07.00:811][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.07.01:312][ 38]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.07.01:813][ 38]LogFileManager: Error: Error moving file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1B35E22C1434BD7F61FEA86BA7D598204.tmp'.
+[2022.07.25-03.07.01:813][ 38]LogSavePackage: Warning: Failed to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to temp directory
+[2022.07.25-03.07.01:813][ 38]LogSavePackage: Error: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.07.01:822][ 38]EditorErrors: New page: Save Output
+[2022.07.25-03.07.01:822][ 38]EditorErrors: Warning: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.07.01:883][ 38]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' which belongs to world '/Game/StarterContent/Maps/Minimal_Default'. Aborting autosave.
+[2022.07.25-03.07.05:477][183]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.07.05:492][183]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.08.30:072][283]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2022.07.25-03.08.30:073][283]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.StaticMeshActor
+[2022.07.25-03.08.30:073][283]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_66
+[2022.07.25-03.08.30:073][283]LogActorFactory: Actor Factory spawned Class /Script/Engine.StaticMeshActor as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_66
+[2022.07.25-03.09.07:050][265]Cmd: TRANSACTION UNDO
+[2022.07.25-03.09.07:050][265]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.09.07:492][273]Cmd: TRANSACTION UNDO
+[2022.07.25-03.09.07:492][273]LogEditorTransaction: Undo Clicking on Elements
+[2022.07.25-03.09.08:168][322]Cmd: TRANSACTION UNDO
+[2022.07.25-03.09.08:168][322]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.09.08:610][359]Cmd: TRANSACTION UNDO
+[2022.07.25-03.09.08:610][359]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.12.00:237][999]Cmd: EDIT COPY
+[2022.07.25-03.12.00:489][ 20]Cmd: EDIT PASTE
+[2022.07.25-03.12.47:760][960]Cmd: EDIT COPY
+[2022.07.25-03.12.50:173][178]Cmd: EDIT PASTE
+[2022.07.25-03.13.03:975][378]Cmd: EDIT COPY
+[2022.07.25-03.13.05:535][512]Cmd: EDIT PASTE
+[2022.07.25-03.13.15:922][379]Cmd: TRANSACTION UNDO
+[2022.07.25-03.13.15:922][379]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.17.07:960][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.25-03.17.07:978][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2022.07.25-03.17.07:979][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.08:480][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.08:980][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.09:481][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.09:983][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.10:484][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.10:985][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.11:485][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.11:986][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.12:487][476]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.17.12:988][476]LogFileManager: Error: Error moving file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto14EC959FA42E447AB5F17CFAC2C0D3435.tmp'.
+[2022.07.25-03.17.12:988][476]LogSavePackage: Warning: Failed to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to temp directory
+[2022.07.25-03.17.12:988][476]LogSavePackage: Error: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.17.12:988][476]EditorErrors: New page: Save Output
+[2022.07.25-03.17.12:988][476]EditorErrors: Warning: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.17.13:020][476]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' which belongs to world '/Game/StarterContent/Maps/Minimal_Default'. Aborting autosave.
+[2022.07.25-03.17.15:652][738]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.17.15:665][738]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.18.15:130][874]Cmd: EDIT COPY
+[2022.07.25-03.18.15:727][927]Cmd: EDIT PASTE
+[2022.07.25-03.19.05:796][356]LogDerivedDataCache: C:/Users/diamo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.010 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.25-03.21.18:847][168]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.25-03.21.18:852][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-03.21.18:852][168]PIE: New page: PIE session: Minimal_Default (Jul 24, 2022, 5:21:18 PM)
+[2022.07.25-03.21.18:892][168]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.21.18:898][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005661s)
+[2022.07.25-03.21.18:898][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005779s)
+[2022.07.25-03.21.18:898][168]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-03.21.18:898][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-03.21.18:898][168]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.25-03.21.18:899][168]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2022.07.25-03.21.18:905][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.07.25-03.21.18:908][168]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.07.25-03.21.18:909][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-03.21.18:909][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-03.21.18:909][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-03.21.18:909][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-03.21.18:909][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-03.21.18:909][168]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.25-03.21.18:909][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-03.21.18:909][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-03.21.18:909][168]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.25-03.21.18:909][168]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.25-03.21.18:909][168]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.25-03.21.18:911][168]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.25-03.21.18:941][168]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2022.07.25-03.21.18:942][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-03.21.18:942][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-03.21.18:942][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-03.21.18:943][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2022.07.25-03.21.18:943][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2022.07.25-03.21.18:944][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2022.07.25-03.21.18:944][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2022.07.25-03.21.18:944][168]LogInit: FAudioDevice initialized.
+[2022.07.25-03.21.18:944][168]LogAudio: Display: Audio Device (ID: 26) registered with world 'Minimal_Default'.
+[2022.07.25-03.21.18:954][168]LogLoad: Game class is 'GameModeBase'
+[2022.07.25-03.21.18:956][168]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.24-22.21.18
+[2022.07.25-03.21.18:956][168]LogWorld: Bringing up level for play took: 0.001963
+[2022.07.25-03.21.18:958][168]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.07.25-03.21.18:959][168]PIE: Server logged in
+[2022.07.25-03.21.18:959][168]PIE: Play in editor total start time 0.107 seconds.
+[2022.07.25-03.21.56:433][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.21.56:433][947]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.21.56:433][947]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.21.56:434][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.21.56:442][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-03.21.56:443][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.21.56:449][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.21.56:449][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.07.25-03.21.56:450][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2022.07.25-03.21.56:453][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.21.56:454][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.25-03.21.56:500][949]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.07.25-03.22.23:371][355]Cmd: EDIT COPY
+[2022.07.25-03.22.24:401][443]Cmd: EDIT PASTE
+[2022.07.25-03.22.38:729][620]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.22.42:875][975]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.22.45:576][198]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.22.47:967][376]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.22.51:151][614]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.25-03.22.51:155][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-03.22.51:156][614]PIE: New page: PIE session: Minimal_Default (Jul 24, 2022, 5:22:51 PM)
+[2022.07.25-03.22.51:156][614]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.22.51:161][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005187s)
+[2022.07.25-03.22.51:161][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005255s)
+[2022.07.25-03.22.51:161][614]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-03.22.51:161][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-03.22.51:162][614]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.25-03.22.51:162][614]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2022.07.25-03.22.51:167][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.25-03.22.51:170][614]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.07.25-03.22.51:170][614]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-03.22.51:170][614]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-03.22.51:170][614]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-03.22.51:170][614]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-03.22.51:170][614]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-03.22.51:170][614]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.25-03.22.51:170][614]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-03.22.51:170][614]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-03.22.51:170][614]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.25-03.22.51:170][614]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.25-03.22.51:170][614]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.25-03.22.51:172][614]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.25-03.22.51:202][614]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2022.07.25-03.22.51:202][614]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-03.22.51:202][614]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-03.22.51:202][614]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-03.22.51:202][614]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2022.07.25-03.22.51:202][614]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2022.07.25-03.22.51:204][614]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2022.07.25-03.22.51:204][614]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2022.07.25-03.22.51:204][614]LogInit: FAudioDevice initialized.
+[2022.07.25-03.22.51:204][614]LogAudio: Display: Audio Device (ID: 27) registered with world 'Minimal_Default'.
+[2022.07.25-03.22.51:213][614]LogLoad: Game class is 'GameModeBase'
+[2022.07.25-03.22.51:215][614]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.24-22.22.51
+[2022.07.25-03.22.51:215][614]LogWorld: Bringing up level for play took: 0.001616
+[2022.07.25-03.22.51:216][614]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2022.07.25-03.22.51:217][614]PIE: Server logged in
+[2022.07.25-03.22.51:218][614]PIE: Play in editor total start time 0.062 seconds.
+[2022.07.25-03.23.21:243][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.23.21:243][588]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.23.21:243][588]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.23.21:243][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.23.21:257][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-03.23.21:259][588]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.23.21:265][588]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.23.21:265][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.07.25-03.23.21:267][588]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2022.07.25-03.23.21:269][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.23.21:271][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.07.25-03.23.21:327][590]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.07.25-03.23.40:422][154]Cmd: EDIT COPY
+[2022.07.25-03.23.40:808][187]Cmd: EDIT PASTE
+[2022.07.25-03.24.47:592][806]Cmd: EDIT COPY
+[2022.07.25-03.24.48:399][874]Cmd: EDIT PASTE
+[2022.07.25-03.25.22:983][843]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.25.24:136][944]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.25-03.25.24:140][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-03.25.24:140][944]PIE: New page: PIE session: Minimal_Default (Jul 24, 2022, 5:25:24 PM)
+[2022.07.25-03.25.24:182][944]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.25.24:188][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005009s)
+[2022.07.25-03.25.24:188][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005143s)
+[2022.07.25-03.25.24:188][944]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-03.25.24:188][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-03.25.24:188][944]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.25-03.25.24:188][944]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2022.07.25-03.25.24:194][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.07.25-03.25.24:197][944]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.07.25-03.25.24:197][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-03.25.24:197][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-03.25.24:197][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-03.25.24:197][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-03.25.24:197][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-03.25.24:197][944]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.25-03.25.24:197][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-03.25.24:197][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-03.25.24:197][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.25-03.25.24:197][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.25-03.25.24:197][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.25-03.25.24:199][944]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.25-03.25.24:229][944]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2022.07.25-03.25.24:230][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-03.25.24:230][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-03.25.24:230][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-03.25.24:230][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2022.07.25-03.25.24:230][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2022.07.25-03.25.24:231][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2022.07.25-03.25.24:231][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2022.07.25-03.25.24:231][944]LogInit: FAudioDevice initialized.
+[2022.07.25-03.25.24:231][944]LogAudio: Display: Audio Device (ID: 28) registered with world 'Minimal_Default'.
+[2022.07.25-03.25.24:244][944]LogLoad: Game class is 'GameModeBase'
+[2022.07.25-03.25.24:246][944]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.24-22.25.24
+[2022.07.25-03.25.24:246][944]LogWorld: Bringing up level for play took: 0.002008
+[2022.07.25-03.25.24:248][944]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.07.25-03.25.24:249][944]PIE: Server logged in
+[2022.07.25-03.25.24:249][944]PIE: Play in editor total start time 0.109 seconds.
+[2022.07.25-03.25.33:593][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.25.33:593][841]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.25.33:593][841]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.25.33:593][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.25.33:604][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-03.25.33:606][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.25.33:612][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.25.33:612][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.07.25-03.25.33:614][841]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2022.07.25-03.25.33:616][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.25.33:617][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.07.25-03.25.33:666][843]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.07.25-03.25.42:654][580]Cmd: EDIT COPY
+[2022.07.25-03.25.42:941][604]Cmd: EDIT PASTE
+[2022.07.25-03.27.23:030][807]LogSlate: Took 0.004295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.25-03.28.30:181][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.07.25-03.28.30:207][315]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2022.07.25-03.28.30:207][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.30:708][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.31:209][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.31:710][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.32:211][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.32:711][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.33:212][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.33:713][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.34:213][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.34:714][315]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.28.35:214][315]LogFileManager: Error: Error moving file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto1FFCF3FF94FB99703BCB8D2833E16FFBE.tmp'.
+[2022.07.25-03.28.35:214][315]LogSavePackage: Warning: Failed to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to temp directory
+[2022.07.25-03.28.35:214][315]LogSavePackage: Error: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.28.35:215][315]EditorErrors: New page: Save Output
+[2022.07.25-03.28.35:215][315]EditorErrors: Warning: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.28.35:275][315]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' which belongs to world '/Game/StarterContent/Maps/Minimal_Default'. Aborting autosave.
+[2022.07.25-03.31.47:832][774]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.31.47:849][774]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.33.24:962][820]Cmd: TRANSACTION UNDO
+[2022.07.25-03.33.24:962][820]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.33.59:712][590]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.34.01:330][712]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.34.02:365][802]Cmd: TRANSACTION UNDO
+[2022.07.25-03.34.02:365][802]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.34.05:288][ 26]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.34.11:292][497]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.34.13:120][648]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.25-03.34.13:125][648]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-03.34.13:125][648]PIE: New page: PIE session: Minimal_Default (Jul 24, 2022, 5:34:13 PM)
+[2022.07.25-03.34.13:163][648]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.34.13:169][648]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005837s)
+[2022.07.25-03.34.13:169][648]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005918s)
+[2022.07.25-03.34.13:169][648]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-03.34.13:169][648]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-03.34.13:169][648]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.25-03.34.13:170][648]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2022.07.25-03.34.13:176][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.25-03.34.13:180][648]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.07.25-03.34.13:180][648]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-03.34.13:180][648]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-03.34.13:180][648]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-03.34.13:180][648]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-03.34.13:180][648]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-03.34.13:180][648]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.25-03.34.13:180][648]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-03.34.13:180][648]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-03.34.13:181][648]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.25-03.34.13:181][648]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.25-03.34.13:181][648]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.25-03.34.13:182][648]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.25-03.34.13:211][648]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2022.07.25-03.34.13:211][648]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-03.34.13:211][648]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-03.34.13:211][648]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-03.34.13:212][648]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2022.07.25-03.34.13:212][648]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2022.07.25-03.34.13:213][648]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2022.07.25-03.34.13:213][648]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2022.07.25-03.34.13:213][648]LogInit: FAudioDevice initialized.
+[2022.07.25-03.34.13:213][648]LogAudio: Display: Audio Device (ID: 29) registered with world 'Minimal_Default'.
+[2022.07.25-03.34.13:220][648]LogLoad: Game class is 'GameModeBase'
+[2022.07.25-03.34.13:222][648]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.24-22.34.13
+[2022.07.25-03.34.13:222][648]LogWorld: Bringing up level for play took: 0.001773
+[2022.07.25-03.34.13:224][648]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.07.25-03.34.13:225][648]PIE: Server logged in
+[2022.07.25-03.34.13:225][648]PIE: Play in editor total start time 0.1 seconds.
+[2022.07.25-03.35.01:903][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.35.01:903][812]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.35.01:903][812]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.35.01:904][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.35.01:917][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-03.35.01:917][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.35.01:924][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.35.01:925][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.07.25-03.35.01:925][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2022.07.25-03.35.01:929][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.25-03.35.01:976][814]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.07.25-03.35.15:086][992]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.07.25-03.35.23:963][737]Cmd: EDIT COPY
+[2022.07.25-03.35.24:806][814]Cmd: EDIT PASTE
+[2022.07.25-03.36.58:091][100]Cmd: EDIT PASTE
+[2022.07.25-03.36.58:106][100]Cmd: EDIT COPY
+[2022.07.25-03.37.06:520][843]Cmd: DELETE
+[2022.07.25-03.37.06:520][843]Cmd: ACTOR DELETE
+[2022.07.25-03.37.06:532][843]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.Minimal_Default:PersistentLevel.SkyLight_1.Sprite is already used by BillboardComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:532][843]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.Sprite is already used by BillboardComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:532][843]LogUObjectGlobals: Warning: Guid referenced by DrawSphereComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius0 is already used by DrawSphereComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:532][843]LogUObjectGlobals: Warning: Guid referenced by DrawSphereComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius1 is already used by DrawSphereComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:533][843]LogUObjectGlobals: Warning: Guid referenced by SkyLightComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0 is already used by SkyLightComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:533][843]LogUObjectGlobals: Warning: Guid referenced by SphereReflectionCaptureComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.NewReflectionComponent is already used by SphereReflectionCaptureComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.NewReflectionComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:542][843]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.Minimal_Default:PersistentLevel.SkyLight_1.Sprite is already used by BillboardComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:542][843]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.Sprite is already used by BillboardComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:542][843]LogUObjectGlobals: Warning: Guid referenced by DrawSphereComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius0 is already used by DrawSphereComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:542][843]LogUObjectGlobals: Warning: Guid referenced by DrawSphereComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius1 is already used by DrawSphereComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:542][843]LogUObjectGlobals: Warning: Guid referenced by SkyLightComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0 is already used by SkyLightComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:542][843]LogUObjectGlobals: Warning: Guid referenced by SphereReflectionCaptureComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.NewReflectionComponent is already used by SphereReflectionCaptureComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.NewReflectionComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:549][843]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.Minimal_Default:PersistentLevel.SkyLight_1.Sprite is already used by BillboardComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:549][843]LogUObjectGlobals: Warning: Guid referenced by BillboardComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.Sprite is already used by BillboardComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.Sprite, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:549][843]LogUObjectGlobals: Warning: Guid referenced by DrawSphereComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius0 is already used by DrawSphereComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:549][843]LogUObjectGlobals: Warning: Guid referenced by DrawSphereComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius1 is already used by DrawSphereComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.DrawRadius1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:549][843]LogUObjectGlobals: Warning: Guid referenced by SkyLightComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0 is already used by SkyLightComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SkyLight_1.SkyLightComponent0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:549][843]LogUObjectGlobals: Warning: Guid referenced by SphereReflectionCaptureComponent /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.NewReflectionComponent is already used by SphereReflectionCaptureComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.SphereReflectionCapture_1.NewReflectionComponent, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.07.25-03.37.06:556][843]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.25-03.37.06:563][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.07.25-03.37.06:566][843]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.07.25-03.37.09:130][ 80]Cmd: EDIT COPY
+[2022.07.25-03.37.09:504][114]Cmd: EDIT PASTE
+[2022.07.25-03.37.38:208][595]Cmd: TRANSACTION UNDO
+[2022.07.25-03.37.38:208][595]LogEditorTransaction: Undo Move Elements
+[2022.07.25-03.38.56:351][243]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.25-03.38.56:356][243]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-03.38.56:356][243]PIE: New page: PIE session: Minimal_Default (Jul 24, 2022, 5:38:56 PM)
+[2022.07.25-03.38.56:383][243]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.38.56:388][243]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005059s)
+[2022.07.25-03.38.56:388][243]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005143s)
+[2022.07.25-03.38.56:388][243]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.25-03.38.56:388][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.25-03.38.56:388][243]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.07.25-03.38.56:389][243]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2022.07.25-03.38.56:395][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.07.25-03.38.56:398][243]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.07.25-03.38.56:398][243]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-03.38.56:398][243]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-03.38.56:398][243]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-03.38.56:398][243]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-03.38.56:398][243]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-03.38.56:398][243]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.25-03.38.56:398][243]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-03.38.56:398][243]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-03.38.56:398][243]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.25-03.38.56:398][243]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.25-03.38.56:398][243]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.25-03.38.56:400][243]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.25-03.38.56:430][243]LogAudioMixer: Display: Using Audio Hardware Device Speakers (USB PnP Sound Device)
+[2022.07.25-03.38.56:430][243]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-03.38.56:430][243]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-03.38.56:430][243]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-03.38.56:431][243]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.07.25-03.38.56:431][243]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.07.25-03.38.56:432][243]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.07.25-03.38.56:432][243]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.07.25-03.38.56:432][243]LogInit: FAudioDevice initialized.
+[2022.07.25-03.38.56:432][243]LogAudio: Display: Audio Device (ID: 30) registered with world 'Minimal_Default'.
+[2022.07.25-03.38.56:444][243]LogLoad: Game class is 'GameModeBase'
+[2022.07.25-03.38.56:446][243]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.07.24-22.38.56
+[2022.07.25-03.38.56:446][243]LogWorld: Bringing up level for play took: 0.002092
+[2022.07.25-03.38.56:448][243]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.07.25-03.38.56:449][243]PIE: Server logged in
+[2022.07.25-03.38.56:450][243]PIE: Play in editor total start time 0.094 seconds.
+[2022.07.25-03.39.27:324][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.39.27:324][358]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.07.25-03.39.27:324][358]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.39.27:324][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.39.27:335][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-03.39.27:336][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.39.27:342][358]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.39.27:342][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.07.25-03.39.27:344][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.07.25-03.39.27:347][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.39.27:348][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.25-03.39.27:381][359]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.07.25-03.39.55:214][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.07.25-03.39.55:231][633]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2022.07.25-03.39.55:231][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.55:732][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.56:233][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.56:733][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.57:234][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.57:735][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.58:236][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.58:737][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.59:237][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.39.59:738][633]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp' (Error Code 32), retrying in .5s...
+[2022.07.25-03.40.00:238][633]LogFileManager: Error: Error moving file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_Default_Auto155690FD64800A144038B2C80106E8E77.tmp'.
+[2022.07.25-03.40.00:238][633]LogSavePackage: Warning: Failed to move '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' to temp directory
+[2022.07.25-03.40.00:238][633]LogSavePackage: Error: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.40.00:239][633]EditorErrors: New page: Save Output
+[2022.07.25-03.40.00:239][633]EditorErrors: Warning: Error saving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2022.07.25-03.40.00:294][633]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap' which belongs to world '/Game/StarterContent/Maps/Minimal_Default'. Aborting autosave.
+[2022.07.25-03.40.08:294][785]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.40.08:309][785]LogSlate: Window 'Message Log' being destroyed
+[2022.07.25-03.41.26:019][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.07.25-03.41.26:078][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.07.25-03.41.26:094][145]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.07.25-03.41.26:095][145]LogSavePackage: Moving '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Saved/Minimal_DefaultE686C8C14660A3077CC3269137AB897D.tmp' to '../../../../../../Users/diamo/OneDrive/Documents/GitHub/Official-Game/MyProject3/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.07.25-03.41.26:116][145]LogFileHelpers: No new changes to save!
+[2022.07.25-03.41.26:116][145]LogFileHelpers: Saving map 'Minimal_Default' took 0.044
+[2022.07.25-03.41.26:136][145]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.07.25-03.41.26:136][145]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.07.25-03.41.31:879][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
